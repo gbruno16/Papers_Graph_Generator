@@ -1,4 +1,4 @@
-# Generator of graph from scientific paper
+# Graph generator from scientific papers
 The script scrapes a given pdf trying to recostruct a graph containing the references between the pages of the paper. This can be particularly useful for long mathematical papers to understand the relationships between many results (theorems, lemmas, definitions...) and the structure of the underlying theory.
 
 ## How does it work?
